@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact organizer</title>
-</head>
-<body>
-    <h1>ContactsOrganizer </h1>
-    <h2>
-        <img src="https://www.techadvisor.com/wp-content/uploads/2022/06/move_contacts_new_phone.jpg?quality=50&strip=all&w=1024" alt="">
- 
-    </h2>
-
-    <COde>import java.util.*;
+import java.util.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
@@ -307,15 +293,3 @@ public class ContactsOrganizer {
         }
     }
 }
-</COde>
-
-
-<h2>
-  <a href="java file/ContactsOrganizer2.java">Download pdf
-
-  </a>
-  </h2>
-  </body>
-  </html>  
-</body>
-</html>
